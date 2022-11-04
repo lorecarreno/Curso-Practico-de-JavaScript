@@ -137,4 +137,4 @@ Esta lectura es una prueba de JavaScript. A diferencia de un examen, nadie te ob
 
 
 
-🏆**¡Felicidades por completar la prueba de JavaScript!**
+
