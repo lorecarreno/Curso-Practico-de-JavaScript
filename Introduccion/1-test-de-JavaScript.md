@@ -135,6 +135,8 @@ Esta lectura es una prueba de JavaScript. A diferencia de un examen, nadie te ob
 
 ------------------------------------------------------------------------------------------------
 
+[Test de JavaScript](https://platzi.com/clases/3271-javascript-practico/51004-test-de-javascript/)
+
 
 
 
